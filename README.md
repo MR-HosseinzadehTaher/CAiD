@@ -15,7 +15,7 @@ In this repository we will release multiple models from our paper as well as the
 ## Major results from our work
 1. **CAiD enriches existing instance discrimination methods.**
 <br/>
-<p align="center"><img width="80%" src="images/f1.png" /></p>
+<p align="center"><img width="80%" src="images/w_wo.png" /></p>
 <br/>
 Credit to [superbar](https://github.com/scottclowe/superbar) by Scott Lowe for Matlab code of superbar.
 
