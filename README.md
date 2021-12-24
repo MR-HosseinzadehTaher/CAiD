@@ -19,14 +19,15 @@ In this repository we will release multiple models from our paper as well as the
 <br/>
 Credit to [superbar](https://github.com/scottclowe/superbar) by Scott Lowe for Matlab code of superbar.
 
+
 2. **CAiD provides more separable features.**
 <br/>
-<p align="center"><img width="90%" src="images/f2.png" /></p>
+<p align="center"><img width="90%" src="images/Distribution.png" /></p>
 <br/>
 
 3. **CAiD provides more reusable low/mid-level features.**
 <br/>
-<p align="center"><img width="90%" src="images/f3.png" /></p>
+
 <br/>
 
 ## Installation
