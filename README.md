@@ -1,6 +1,6 @@
 # CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging
 
-This repository provides a PyTorch implementation of the [CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging]().
+This repository provides a PyTorch implementation of the [CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging](https://openreview.net/pdf?id=PNAdmb_Ujf).
 
 This is the first work that quantitatively and systematically shows the general limitation of instance discrimination methods in learning a distinct set of features from unlabeled medical images due to their global anatomical similarity. To alleviate this problem, we propose Context-Aware instance Discrimination (CAiD), a simple yet powerful self-supervised framework that formulates an auxiliary context prediction task to equip instance discrimination learning with  fine-grained contextual information captured from local regions of images.
 
